@@ -2,7 +2,8 @@ Developed a simple Django application and deployed it on Kubernetes to practice 
 
 
 
-Django application
+# Django application
+
 <img width="1920" height="1031" alt="op" src="https://github.com/user-attachments/assets/7ebba4ce-6456-4033-b04b-b81bd9e12ec2" />
 
 
@@ -10,7 +11,8 @@ Django application
 
 
 
-Monitored using Prometheus, Grafana 
+# Monitored using Prometheus, Grafana 
+
 <img width="1920" height="975" alt="Screenshot 2026-11-04 175222" src="https://github.com/user-attachments/assets/3a515f53-0413-4698-b107-995a6f0baa91" />
 
 
